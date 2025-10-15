@@ -7,6 +7,9 @@ public class Firstone {
 
             String w=words[i].toLowerCase();
             System.out.println(w);
+
+            System.out.println("we converted uppercase to lowercase");
+
         }
 
 
